@@ -1,14 +1,15 @@
 # 💻 Pragati Sharma
 
-![Profile Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-### 🚀 B.Tech in Computer Science and Engineering (CSE) | Aspiring Data Scientist | Web Developer
+
+### 🚀 B.Tech in Computer Science and Engineering (CSE) | Aspiring Data Scientist 
+![Profile Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
 ### 👩‍🎓 About Me
 
-Hello! I'm Pragati Sharma, a B.Tech Computer Science graduate from GWECA. I'm passionate about technology, coding, and continuous learning. Currently, I'm expanding my knowledge in Data Analytics through a course from IBM and honing my skills in Data Science, Machine Learning, and Web Development.
+Hello! I'm Pragati Sharma, a B.Tech Computer Science graduate from GWECA. I'm passionate about technology, coding, and continuous learning. Currently, I'm expanding my knowledge in Data Analytics through a course from IBM and honing my skills in Data Science, Machine Learning.
 
 ![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
@@ -17,7 +18,6 @@ Hello! I'm Pragati Sharma, a B.Tech Computer Science graduate from GWECA. I'm pa
 ### 🌟 Skills
 
 - **Programming Languages:** Python, Java, C
-- **Web Development:** HTML, CSS, JavaScript
 - **Data Science & Machine Learning:** TensorFlow, Scikit-Learn, Pandas, NumPy
 - **Database Management:** SQL, NoSQL
 - **Tools & Technologies:** TensorFlow, Scikit-Learn, Pandas, NumPy, Git, GitHub
@@ -64,9 +64,9 @@ Hello! I'm Pragati Sharma, a B.Tech Computer Science graduate from GWECA. I'm pa
 
 ### 📫 Contact Me
 
-- **Email:** pragati.sharma@example.com
-- **LinkedIn:** [Pragati Sharma](https://www.linkedin.com/in/pragati-sharma/)
-- **GitHub:** [PragatiSharma](https://github.com/PragatiSharma)
+- **Email:** pragatisharmakota@gmail.com
+- **LinkedIn:** [Pragati Sharma](https://www.linkedin.com/in/pragati-sharma-35b933251/)
+- **GitHub:** [PragatiSharma](https://github.com/PragatiSharma100)
 
 
 
@@ -87,11 +87,6 @@ When I'm not coding, you can find me exploring new places, reading tech blogs, o
 
 ---
 
-### 📄 License
-
-This README file is licensed under the MIT License.
-
----
 
 ### 📈 GitHub Stats
 
